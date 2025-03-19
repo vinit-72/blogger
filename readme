@@ -1,1 +1,24 @@
-readme
+Home Page: 
+  Navigation bar: sign in,about us,create blog.
+  <<PHOTOS IN BACKGROUND>>
+  <<SHOWCASES FEATURES>>
+  <<CONTACT FOOTER>>
+SIGNIN PAGE:
+  USERNAME,PASSWORD or 3rd Party Sign-in Options.
+SIGNUP PAGE:
+  EMAIL,USERNAME,FULLNAME,PASSWORD
+  This page will lead to confirmation/OTP.
+  Then Create Profile=> Bio,Profile Picture.
+MAIN PAGE:
+  Side bar:Appearance Settings,Logout,etc
+  Navigation Bar: Side Bar,Search,Create Posts,Profile.
+  <<FEED>>
+  <<TOP POSTS>>
+  Each Post has options to Comment/Like/Share.
+Profile:
+  <<Profile Show and Self-posts>>
+  options: change profilepicture,Update Bio,Update/Delete Post.
+Create Posts:
+  Toolbar: Different text/font/images and other options for writing blogs.
+  Text Window where user edits text.
+  Options: Cancel,save draft, Post.
